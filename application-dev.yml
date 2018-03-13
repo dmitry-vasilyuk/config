@@ -1,0 +1,11 @@
+---
+APP_CONFIG:
+  systemPwd: "!di123$?"
+logging:
+  level:
+    com.example: ERROR
+remote:
+  cpu:
+    intensive:
+      service:
+        url: "http://server.kpsj001.us-west.mybluemix.net"
